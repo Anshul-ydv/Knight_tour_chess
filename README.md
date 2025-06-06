@@ -1,4 +1,4 @@
-# ♞ Knight's Tour - Data Structures & Algorithms Project
+# ♞ Knight's Tour - DSA Project
 
 This repository contains a C++ implementation of the **Knight's Tour** problem using **backtracking** and a **linked list** to track the knight's path. It was developed as part of a lab assignment for the Data Structures and Algorithms course.
 
